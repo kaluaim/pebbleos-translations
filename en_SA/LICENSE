@@ -1,3 +1,13 @@
+NOTICE OF MODIFICATION
+======================
+Vazirmatn-Regular.ttf and Vazirmatn-Bold.ttf in this directory carry one added
+glyph, U+20C1 SAUDI RIYAL SIGN, whose outline is taken from Noto Naskh Arabic
+(https://github.com/notofonts/arabic), Copyright 2022 The Noto Project Authors,
+also licensed under the SIL Open Font License, Version 1.1, and scaled to the
+height of Vazirmatn's digits. Everything else is the unmodified Vazirmatn font
+software described below.
+=============================================================================
+
 Copyright 2015 The Vazirmatn Project Authors (https://github.com/rastikerdar/vazirmatn)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

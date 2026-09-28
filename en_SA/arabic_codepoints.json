@@ -1,5 +1,5 @@
 {
-  "notes": "Arabic block (U+0600-U+06FF) + Arabic Presentation Forms-B (U+FE70-U+FEFC). Forms-B contains the shaped output produced by applib/graphics/arabic_shaping.c.",
+  "notes": "Arabic block (U+0600-U+06FF) + Arabic Presentation Forms-B (U+FE70-U+FEFC). Forms-B contains the shaped output produced by applib/graphics/arabic_shaping.c. Plus U+20C1 SAUDI RIYAL SIGN, added to the Vazirmatn fonts from Noto Naskh Arabic.",
   "codepoints": [
     1536,
     1537,
@@ -257,6 +257,7 @@
     1789,
     1790,
     1791,
+    8385,
     65136,
     65137,
     65138,
